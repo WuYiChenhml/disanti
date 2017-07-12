@@ -1,4 +1,4 @@
-module.exports = function main() {
+module.exports = function main(string) {
   // Write your cade here
   var length = string.length;
   var num = Number(string);
